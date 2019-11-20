@@ -28,7 +28,7 @@
   "homepage": "https://developer.bitcoin.com/bitbox",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bitcoin-com/bitbox-sdk.git"
+    "url": "git+https://github.com/devalbo/bitbox-sdk.git"
   },
   "dependencies": {
     "assert": "^1.4.1",
@@ -42,7 +42,7 @@
     "bip39": "^2.5.0",
     "bip66": "^1.1.5",
     "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops#2.0.0",
-    "bitcoincashjs-lib": "Bitcoin-com/bitcoincashjs-lib#v4.0.1",
+    "bitcoincashjs-lib": "devalbo/bitcoincashjs-lib#no-typeforce",
     "bitcoinjs-message": "^2.0.0",
     "bs58": "^4.0.1",
     "cashaddrjs": "^0.2.9",
